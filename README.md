@@ -1,4 +1,4 @@
-demo_app
+# Ruby on Rails Tutorial: demo_app
 ========
 
-rails cast demo app
+First application from [*Ruby on Rails Tutorial: Learn By Example*](http://railstutorial.org) by [Michael Hartl](http://www.michaelhartl.com)
